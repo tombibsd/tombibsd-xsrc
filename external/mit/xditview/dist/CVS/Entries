@@ -1,0 +1,35 @@
+/COPYING/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/ChangeLog/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/Dvi.c/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/Dvi.h/1.1.1.1/Wed Jul 30 04:15:07 2008/-kk/
+/DviChar.c/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/DviChar.h/1.1.1.1/Wed Jul 30 04:15:06 2008/-kk/
+/DviP.h/1.1.1.1/Wed Jul 30 04:15:06 2008/-kk/
+/INSTALL/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/Makefile.am/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/Makefile.in/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/Menu.h/1.1.1.1/Wed Jul 30 04:15:06 2008/-kk/
+/README/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/XFontName.c/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/XFontName.h/1.1.1.1/Wed Jul 30 04:15:06 2008/-kk/
+/aclocal.m4/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/config.guess/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/config.h.in/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/config.sub/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/configure.ac/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/configure/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/depcomp/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/draw.c/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/font.c/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/install-sh/1.1.1.2/Fri May 31 06:13:16 2013/-kk/
+/ldblarrow/1.1.1.1/Wed Jul 30 04:15:06 2008/-kk/
+/lex.c/1.1.1.2/Fri May 31 06:13:16 2013/-kk/
+/missing/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/page.c/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/parse.c/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+/rdblarrow/1.1.1.1/Wed Jul 30 04:15:06 2008/-kk/
+/xdit.bm/1.1.1.1/Wed Jul 30 04:15:06 2008/-kk/
+/xdit_mask.bm/1.1.1.1/Wed Jul 30 04:15:06 2008/-kk/
+/xditview.c/1.1.1.2/Fri May 31 06:13:17 2013/-kk/
+D/app-defaults////
+D/man////

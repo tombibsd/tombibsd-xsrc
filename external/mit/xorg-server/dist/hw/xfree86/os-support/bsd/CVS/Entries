@@ -1,0 +1,17 @@
+/Makefile.am/1.1.1.3/Tue Nov 23 05:21:42 2010/-kk/
+/Makefile.in/1.1.1.6/Mon Jun  3 07:34:25 2013/-kk/
+/alpha_video.c/1.4/Tue Nov 23 06:38:09 2010/-kk/
+/arm_video.c/1.5/Tue Nov 23 06:38:09 2010/-kk/
+/bsd_VTsw.c/1.3/Wed Feb 20 04:00:47 2013/-kk/
+/bsd_apm.c/1.1.1.3/Tue Nov 23 05:21:42 2010/-kk/
+/bsd_axp.c/1.1.1.3/Tue Nov 23 05:21:42 2010/-kk/
+/bsd_bell.c/1.1.1.2/Tue Nov 23 05:21:42 2010/-kk/
+/bsd_ev56.c/1.2/Sat Jan 24 17:18:53 2009/-kk/
+/bsd_init.c/1.6/Tue Aug  2 07:15:04 2011/-kk/
+/bsd_kmod.c/1.1.1.2/Tue Nov 23 05:21:42 2010/-kk/
+/bsd_kqueue_apm.c/1.1.1.3/Tue Nov 23 05:21:42 2010/-kk/
+/i386_video.c/1.1.1.3/Tue Nov 23 05:21:42 2010/-kk/
+/memrange.h/1.1.1.1/Thu Jul 31 19:49:38 2008/-kk/
+/ppc_video.c/1.7/Wed Aug 20 14:24:50 2014/-kk/
+/sparc64_video.c/1.1.1.3/Tue Nov 23 05:21:42 2010/-kk/
+D

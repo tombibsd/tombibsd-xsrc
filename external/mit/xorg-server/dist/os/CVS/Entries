@@ -1,0 +1,26 @@
+/Makefile.am/1.1.1.4/Mon Jun  3 07:34:29 2013/-kk/
+/Makefile.in/1.1.1.6/Mon Jun  3 07:34:29 2013/-kk/
+/WaitFor.c/1.1.1.4/Tue Aug  2 06:57:04 2011/-kk/
+/access.c/1.3/Wed Dec 10 09:15:43 2014/-kk/
+/auth.c/1.1.1.3/Tue Nov 23 05:22:09 2010/-kk/
+/backtrace.c/1.1.1.3/Mon Jun  3 07:34:29 2013/-kk/
+/connection.c/1.1.1.4/Tue Aug  2 06:57:04 2011/-kk/
+/io.c/1.1.1.4/Sun Jul 24 01:29:16 2011/-kk/
+/log.c/1.1.1.6/Tue Aug  2 06:57:04 2011/-kk/
+/mitauth.c/1.1.1.2/Tue Nov 23 05:22:09 2010/-kk/
+/os.c/1.1.1.1/Thu Jul 31 19:49:35 2008/-kk/
+/oscolor.c/1.1.1.2/Thu Jun 11 01:52:54 2009/-kk/
+/osdep.h/1.1.1.4/Tue Aug  2 06:57:04 2011/-kk/
+/osinit.c/1.1.1.4/Tue Aug  2 06:57:04 2011/-kk/
+/rpcauth.c/1.2/Tue Dec  9 19:26:18 2014/-kk/
+/strcasecmp.c/1.1.1.2/Tue Nov 23 05:22:09 2010/-kk/
+/strcasestr.c/1.1.1.2/Tue Nov 23 05:22:09 2010/-kk/
+/strlcat.c/1.1.1.3/Sun Jul 24 01:29:16 2011/-kk/
+/strlcpy.c/1.1.1.4/Sun Jul 24 01:29:16 2011/-kk/
+/utils.c/1.6/Mon Jun  3 07:38:41 2013/-kk/
+/xdmauth.c/1.1.1.3/Tue Nov 23 05:22:10 2010/-kk/
+/xdmcp.c/1.1.1.5/Tue Aug  2 06:57:04 2011/-kk/
+/xprintf.c/1.1.1.3/Tue Aug  2 06:57:04 2011/-kk/
+/xsha1.c/1.1.1.1/Tue Nov 23 05:22:10 2010/-kk/
+/xstrans.c/1.1.1.2/Tue Aug  2 06:57:04 2011/-kk/
+D

@@ -1,0 +1,30 @@
+/Android.mk/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/Makefile.am/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/Makefile.in/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/Makefile.sources/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/entry.c/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/entry.h/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/entry_x86-64_tls.h/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/entry_x86_tls.h/1.1.1.1/Fri Jan  9 08:07:43 2015/-kk/
+/entry_x86_tsd.h/1.1.1.1/Fri Jan  9 08:07:43 2015/-kk/
+/mapi.c/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/mapi.h/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/mapi_abi.py/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/mapi_glapi.c/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/mapi_tmp.h/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/stub.c/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/stub.h/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/table.c/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/table.h/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/u_compiler.h/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/u_current.c/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/u_current.h/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/u_execmem.c/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/u_execmem.h/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/u_macros.h/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+/u_thread.h/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
+D/es1api////
+D/es2api////
+D/glapi////
+D/shared-glapi////
+D/vgapi////

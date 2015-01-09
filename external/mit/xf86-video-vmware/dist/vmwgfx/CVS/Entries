@@ -1,0 +1,27 @@
+/Makefile.am/1.1.1.2/Sat Jul 12 04:40:17 2014/-kk/
+/Makefile.in/1.1.1.2/Sat Jul 12 04:40:17 2014/-kk/
+/svga3d_reg.h/1.1.1.1/Wed Jun  5 06:12:14 2013/-kk/
+/vmwgfx_crtc.c/1.1.1.1/Wed Jun  5 06:12:14 2013/-kk/
+/vmwgfx_ctrl.c/1.1.1.1/Wed Jun  5 06:12:14 2013/-kk/
+/vmwgfx_ctrl.h/1.1.1.1/Wed Jun  5 06:12:14 2013/-kk/
+/vmwgfx_dri2.c/1.1.1.2/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_driver.c/1.1.1.2/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_driver.h/1.1.1.2/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_drm.h/1.1.1.1/Wed Jun  5 06:12:14 2013/-kk/
+/vmwgfx_drmi.c/1.1.1.2/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_drmi.h/1.1.1.2/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_hosted.c/1.1.1.1/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_hosted.h/1.1.1.1/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_hosted_priv.h/1.1.1.1/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_output.c/1.1.1.2/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_overlay.c/1.1.1.2/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_saa.c/1.1.1.2/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_saa.h/1.1.1.2/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_saa_priv.h/1.1.1.2/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_tex_video.c/1.1.1.2/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_xa_composite.c/1.1.1.1/Wed Jun  5 06:12:14 2013/-kk/
+/vmwgfx_xa_surface.c/1.1.1.2/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_xmir.c/1.1.1.1/Sat Jul 12 04:40:17 2014/-kk/
+/vmwgfx_xwayland.c/1.1.1.1/Sat Jul 12 04:40:17 2014/-kk/
+/wsbm_util.h/1.1.1.1/Wed Jun  5 06:12:14 2013/-kk/
+D

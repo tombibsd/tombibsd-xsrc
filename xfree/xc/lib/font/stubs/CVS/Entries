@@ -1,0 +1,20 @@
+/Imakefile/1.1.1.4/Fri Feb 28 13:18:56 2003/-kk/
+/cauthgen.c/1.1.1.3/Sat Jun  9 14:57:20 2001/-kk/
+/csignal.c/1.1.1.3/Sat Jun  9 14:57:20 2001/-kk/
+/delfntcid.c/1.1.1.3/Sat Jun  9 14:57:20 2001/-kk/
+/errorf.c/1.1.1.4/Fri Mar  5 14:24:41 2004/-kk/
+/fatalerror.c/1.1.1.4/Fri Mar  5 14:24:41 2004/-kk/
+/findoldfnt.c/1.1.1.3/Sat Jun  9 14:57:20 2001/-kk/
+/getcres.c/1.1.1.3/Sat Jun  9 14:57:20 2001/-kk/
+/getdefptsize.c/1.1.1.3/Sat Jun  9 14:57:20 2001/-kk/
+/getnewfntcid.c/1.1.1.3/Sat Jun  9 14:57:20 2001/-kk/
+/gettime.c/1.1.1.3/Sat Jun  9 14:57:20 2001/-kk/
+/initfshdl.c/1.1.1.4/Fri Mar  5 14:24:41 2004/-kk/
+/regfpefunc.c/1.1.1.3/Sat Jun  9 14:57:20 2001/-kk/
+/rmfshdl.c/1.1.1.4/Fri Mar  5 14:24:41 2004/-kk/
+/servclient.c/1.1.1.3/Sat Jun  9 14:57:20 2001/-kk/
+/setfntauth.c/1.1.1.3/Sat Jun  9 14:57:20 2001/-kk/
+/stfntcfnt.c/1.1.1.3/Sat Jun  9 14:57:20 2001/-kk/
+/stubs.h/1.1.1.4/Fri Mar  5 14:24:41 2004/-kk/
+/xpstubs.c/1.1.1.3/Sat Jun  9 14:57:20 2001/-kk/
+D

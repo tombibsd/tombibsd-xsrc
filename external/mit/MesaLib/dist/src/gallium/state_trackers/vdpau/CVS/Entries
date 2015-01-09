@@ -1,0 +1,16 @@
+/Makefile.am/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/Makefile.in/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/Makefile.sources/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/bitmap.c/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/decode.c/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/device.c/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/ftab.c/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/htab.c/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/mixer.c/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/output.c/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/preemption.c/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/presentation.c/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/query.c/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/surface.c/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/vdpau_private.h/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+D

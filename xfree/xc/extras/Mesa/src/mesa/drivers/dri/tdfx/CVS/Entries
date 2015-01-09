@@ -1,0 +1,33 @@
+/BUGS/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/Makefile/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/dri_glide.h/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_context.c/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_context.h/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_dd.c/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_dd.h/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_glide.h/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_lock.c/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_lock.h/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_pixels.c/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_pixels.h/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_render.c/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_render.h/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_screen.c/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_screen.h/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_span.c/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_span.h/1.1.1.1/Fri Mar 18 13:06:35 2005/-kk/
+/tdfx_state.c/1.1.1.1/Fri Mar 18 13:06:36 2005/-kk/
+/tdfx_state.h/1.1.1.1/Fri Mar 18 13:06:36 2005/-kk/
+/tdfx_tex.c/1.1.1.1/Fri Mar 18 13:06:36 2005/-kk/
+/tdfx_tex.h/1.1.1.1/Fri Mar 18 13:06:36 2005/-kk/
+/tdfx_texman.c/1.1.1.1/Fri Mar 18 13:06:36 2005/-kk/
+/tdfx_texman.h/1.1.1.1/Fri Mar 18 13:06:36 2005/-kk/
+/tdfx_texstate.c/1.1.1.1/Fri Mar 18 13:06:36 2005/-kk/
+/tdfx_texstate.h/1.1.1.1/Fri Mar 18 13:06:36 2005/-kk/
+/tdfx_tris.c/1.1.1.1/Fri Mar 18 13:06:36 2005/-kk/
+/tdfx_tris.h/1.1.1.1/Fri Mar 18 13:06:36 2005/-kk/
+/tdfx_vb.c/1.1.1.1/Fri Mar 18 13:06:36 2005/-kk/
+/tdfx_vb.h/1.1.1.1/Fri Mar 18 13:06:36 2005/-kk/
+/tdfx_vbtmp.h/1.1.1.1/Fri Mar 18 13:06:36 2005/-kk/
+D/X86////
+D/server////

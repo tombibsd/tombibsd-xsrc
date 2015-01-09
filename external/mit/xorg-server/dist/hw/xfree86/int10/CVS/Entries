@@ -1,0 +1,14 @@
+/INT10.HOWTO/1.1.1.1/Thu Jul 31 19:49:46 2008/-kk/
+/Makefile.am/1.1.1.3/Tue Nov 23 05:21:38 2010/-kk/
+/Makefile.in/1.1.1.6/Mon Jun  3 07:34:24 2013/-kk/
+/generic.c/1.2/Thu Jan  6 03:27:02 2011/-kk/
+/helper_exec.c/1.5/Tue Aug  2 07:15:04 2011/-kk/
+/helper_mem.c/1.1.1.3/Tue Nov 23 05:21:38 2010/-kk/
+/stub.c/1.1.1.1/Thu Jul 31 19:49:45 2008/-kk/
+/x86emu.c/1.1.1.1/Thu Jul 31 19:49:46 2008/-kk/
+/xf86int10.c/1.2/Fri Jun 12 01:55:07 2009/-kk/
+/xf86int10.h/1.1.1.3/Tue Nov 23 05:21:38 2010/-kk/
+/xf86int10module.c/1.1.1.2/Tue Aug  2 06:56:56 2011/-kk/
+/xf86x86emu.c/1.1.1.1/Thu Jul 31 19:49:46 2008/-kk/
+/xf86x86emu.h/1.1.1.1/Thu Jul 31 19:49:46 2008/-kk/
+D

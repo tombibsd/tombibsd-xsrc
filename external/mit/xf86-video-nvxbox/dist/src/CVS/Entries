@@ -1,0 +1,24 @@
+/Makefile.am/1.1.1.1/Sun Sep 21 02:09:24 2008/-kk/
+/Makefile.in/1.1.1.1/Sun Sep 21 02:09:24 2008/-kk/
+/nv_const.h/1.1.1.1/Sun Sep 21 02:09:24 2008/-kk/
+/nv_cursor.c/1.1.1.1/Sun Sep 21 02:09:24 2008/-kk/
+/nv_dac.c/1.1.1.1/Sun Sep 21 02:09:24 2008/-kk/
+/nv_dga.c/1.1.1.1/Sun Sep 21 02:09:24 2008/-kk/
+/nv_driver.c/1.3/Wed Nov 24 02:54:09 2010/-kk/
+/nv_include.h/1.1.1.1/Sun Sep 21 02:09:25 2008/-kk/
+/nv_local.h/1.1.1.1/Sun Sep 21 02:09:25 2008/-kk/
+/nv_proto.h/1.1.1.1/Sun Sep 21 02:09:26 2008/-kk/
+/nv_setup.c/1.1.1.1/Sun Sep 21 02:09:26 2008/-kk/
+/nv_shadow.c/1.1.1.1/Sun Sep 21 02:09:26 2008/-kk/
+/nv_type.h/1.1.1.1/Sun Sep 21 02:09:26 2008/-kk/
+/nv_video.c/1.1.1.1/Sun Sep 21 02:09:26 2008/-kk/
+/nv_xaa.c/1.1.1.1/Sun Sep 21 02:09:26 2008/-kk/
+/nvdrv.man/1.1.1.1/Sun Sep 21 02:09:26 2008/-kk/
+/nvreg.h/1.1.1.1/Sun Sep 21 02:09:26 2008/-kk/
+/nvvga.h/1.1.1.1/Sun Sep 21 02:09:26 2008/-kk/
+/nvxbox.man/1.1.1.1/Sun Sep 21 02:09:26 2008/-kk/
+/nvxboxdrv.man/1.1.1.1/Sun Sep 21 02:09:24 2008/-kk/
+/riva_hw.c/1.1.1.1/Sun Sep 21 02:09:27 2008/-kk/
+/riva_hw.h/1.1.1.1/Sun Sep 21 02:09:27 2008/-kk/
+/riva_tbl.h/1.1.1.1/Sun Sep 21 02:09:27 2008/-kk/
+D
