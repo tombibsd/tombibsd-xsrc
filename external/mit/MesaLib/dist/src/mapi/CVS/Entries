@@ -5,8 +5,8 @@
 /entry.c/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
 /entry.h/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
 /entry_x86-64_tls.h/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
-/entry_x86_tls.h/1.1.1.1/Fri Jan  9 08:07:43 2015/-kk/
-/entry_x86_tsd.h/1.1.1.1/Fri Jan  9 08:07:43 2015/-kk/
+/entry_x86_tls.h/1.2/Mon Jan 12 07:09:00 2015/-kk/
+/entry_x86_tsd.h/1.2/Mon Jan 12 07:09:00 2015/-kk/
 /mapi.c/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
 /mapi.h/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/
 /mapi_abi.py/1.1.1.1/Thu Dec 18 06:02:08 2014/-kk/

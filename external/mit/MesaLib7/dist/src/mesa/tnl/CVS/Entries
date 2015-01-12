@@ -1,0 +1,27 @@
+/descrip.mms/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_context.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_context.h/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_draw.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_pipeline.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_pipeline.h/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_rasterpos.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vb_cliptmp.h/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vb_fog.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vb_light.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vb_lighttmp.h/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vb_normals.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vb_points.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vb_program.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vb_render.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vb_rendertmp.h/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vb_texgen.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vb_texmat.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vb_vertex.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vertex.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vertex.h/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vertex_generic.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vertex_sse.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vp_build.c/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/t_vp_build.h/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+/tnl.h/1.1.1.1/Mon Jan  5 02:40:58 2015/-kk/
+D
