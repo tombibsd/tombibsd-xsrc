@@ -1,7 +1,7 @@
 /Makefile.am/1.1.1.3/Tue Aug  2 06:57:05 2011/-kk/
 /Makefile.in/1.1.1.6/Mon Jun  3 07:34:29 2013/-kk/
 /randr.c/1.2/Wed Nov  5 17:51:14 2014/-kk/
-/randrstr.h/1.2/Wed Nov  5 17:51:14 2014/-kk/
+/randrstr.h/1.3/Thu Feb  5 08:48:56 2015/-kk/
 /rrcrtc.c/1.1.1.5/Tue Aug  2 06:57:05 2011/-kk/
 /rrdispatch.c/1.1.1.4/Tue Aug  2 06:57:05 2011/-kk/
 /rrinfo.c/1.1.1.3/Tue Nov 23 05:22:12 2010/-kk/
@@ -12,6 +12,6 @@
 /rrscreen.c/1.1.1.7/Tue Aug  2 06:57:05 2011/-kk/
 /rrsdispatch.c/1.2/Tue Dec  9 19:26:18 2014/-kk/
 /rrtransform.c/1.2/Wed Mar  5 21:29:31 2014/-kk/
-/rrtransform.h/1.1.1.2/Tue Nov 23 05:22:12 2010/-kk/
+/rrtransform.h/1.2/Thu Feb  5 08:48:56 2015/-kk/
 /rrxinerama.c/1.1.1.3/Tue Nov 23 05:22:12 2010/-kk/
 D
