@@ -1,9 +1,9 @@
-/Makefile.am/1.1.1.3/Thu May 30 20:23:56 2013/-kk/
-/Makefile.in/1.1.1.5/Thu May 30 20:23:56 2013/-kk/
-/cursor.c/1.1.1.4/Thu May 30 20:23:56 2013/-kk/
-/display.c/1.1.1.4/Thu May 30 20:23:56 2013/-kk/
-/file.c/1.1.1.4/Thu May 30 20:23:56 2013/-kk/
-/library.c/1.1.1.3/Thu May 30 20:23:56 2013/-kk/
-/xcursorint.h/1.1.1.3/Thu May 30 20:23:56 2013/-kk/
-/xlib.c/1.1.1.4/Thu May 30 20:23:56 2013/-kk/
+/Makefile.am/1.1.1.3/Fri Jan  9 08:19:19 2015/-kk/
+/Makefile.in/1.1.1.5/Fri Jan  9 08:19:19 2015/-kk/
+/cursor.c/1.1.1.4/Fri Jan  9 08:19:19 2015/-kk/
+/display.c/1.1.1.4/Fri Jan  9 08:19:19 2015/-kk/
+/file.c/1.1.1.4/Fri Jan  9 08:19:19 2015/-kk/
+/library.c/1.1.1.3/Fri Jan  9 08:19:19 2015/-kk/
+/xcursorint.h/1.1.1.3/Fri Jan  9 08:19:19 2015/-kk/
+/xlib.c/1.1.1.4/Fri Jan  9 08:19:19 2015/-kk/
 D

@@ -1,12 +1,12 @@
-/Makefile.am/1.1.1.3/Tue Nov 23 05:21:46 2010/-kk/
-/Makefile.in/1.1.1.6/Mon Jun  3 07:34:25 2013/-kk/
-/debug.c/1.1.1.1/Thu Jul 31 19:49:44 2008/-kk/
-/decode.c/1.1.1.1/Thu Jul 31 19:49:45 2008/-kk/
-/fpu.c/1.1.1.1/Thu Jul 31 19:49:45 2008/-kk/
-/ops.c/1.1.1.3/Sun Jul 24 01:29:11 2011/-kk/
-/ops2.c/1.1.1.2/Thu Jun 11 01:52:56 2009/-kk/
-/prim_ops.c/1.2/Wed Mar  5 21:29:31 2014/-kk/
-/sys.c/1.1.1.3/Tue Nov 23 05:21:48 2010/-kk/
-/validate.c/1.1.1.2/Tue Nov 23 05:21:48 2010/-kk/
-/x86emu.h/1.1.1.1/Thu Jul 31 19:49:45 2008/-kk/
+/Makefile.am/1.1.1.3/Fri Jan  9 08:19:28 2015/-kk/
+/Makefile.in/1.1.1.6/Fri Jan  9 08:19:28 2015/-kk/
+/debug.c/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
+/decode.c/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
+/fpu.c/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
+/ops.c/1.1.1.3/Fri Jan  9 08:19:28 2015/-kk/
+/ops2.c/1.1.1.2/Fri Jan  9 08:19:28 2015/-kk/
+/prim_ops.c/1.2/Fri Jan  9 08:19:28 2015/-kk/
+/sys.c/1.1.1.3/Fri Jan  9 08:19:28 2015/-kk/
+/validate.c/1.1.1.2/Fri Jan  9 08:19:28 2015/-kk/
+/x86emu.h/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
 D/x86emu////

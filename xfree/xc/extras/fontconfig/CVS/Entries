@@ -1,22 +1,22 @@
-/AUTHORS/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/COPYING/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/ChangeLog/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/INSTALL/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/Imakefile/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/Makefile.in/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/NEWS/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/README/1.1.1.2/Fri Mar 18 13:07:05 2005/-kk/
-/config.h.in/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/configure.in/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/configure/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/cvscompile.sh/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/findfonts/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/fontconfig-config.in/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/fontconfig.pc.in/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/fonts.conf.in/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/fonts.dtd/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/local.def/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
-/setfontdirs/1.1.1.1/Fri Mar  5 14:26:09 2004/-kk/
+/AUTHORS/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/COPYING/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/ChangeLog/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/INSTALL/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/Imakefile/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/Makefile.in/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/NEWS/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/README/1.1.1.2/Fri Jan  9 08:19:29 2015/-kk/
+/config.h.in/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/configure.in/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/configure/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/cvscompile.sh/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/findfonts/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/fontconfig-config.in/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/fontconfig.pc.in/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/fonts.conf.in/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/fonts.dtd/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/local.def/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
+/setfontdirs/1.1.1.1/Fri Jan  9 08:19:29 2015/-kk/
 D/config////
 D/doc////
 D/fc-cache////

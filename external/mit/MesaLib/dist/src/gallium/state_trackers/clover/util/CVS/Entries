@@ -1,12 +1,12 @@
-/adaptor.hpp/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
-/algebra.hpp/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
-/algorithm.hpp/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
-/compat.cpp/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
-/compat.hpp/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
-/factor.hpp/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
-/functional.hpp/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
-/lazy.hpp/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
-/pointer.hpp/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
-/range.hpp/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
-/tuple.hpp/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/adaptor.hpp/1.1.1.1/Fri Jan  9 08:19:15 2015/-kk/
+/algebra.hpp/1.1.1.1/Fri Jan  9 08:19:15 2015/-kk/
+/algorithm.hpp/1.1.1.1/Fri Jan  9 08:19:15 2015/-kk/
+/compat.cpp/1.1.1.1/Fri Jan  9 08:19:15 2015/-kk/
+/compat.hpp/1.1.1.1/Fri Jan  9 08:19:15 2015/-kk/
+/factor.hpp/1.1.1.1/Fri Jan  9 08:19:15 2015/-kk/
+/functional.hpp/1.1.1.1/Fri Jan  9 08:19:15 2015/-kk/
+/lazy.hpp/1.1.1.1/Fri Jan  9 08:19:15 2015/-kk/
+/pointer.hpp/1.1.1.1/Fri Jan  9 08:19:15 2015/-kk/
+/range.hpp/1.1.1.1/Fri Jan  9 08:19:15 2015/-kk/
+/tuple.hpp/1.1.1.1/Fri Jan  9 08:19:15 2015/-kk/
 D

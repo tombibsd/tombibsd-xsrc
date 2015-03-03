@@ -1,9 +1,9 @@
-/Makefile.am/1.1.1.1/Tue Dec 16 06:01:19 2014/-kk/
-/Makefile.in/1.1.1.1/Tue Dec 16 06:01:19 2014/-kk/
-/eglut.c/1.1.1.1/Tue Dec 16 06:01:19 2014/-kk/
-/eglut.h/1.1.1.1/Tue Dec 16 06:01:19 2014/-kk/
-/eglut_screen.c/1.1.1.1/Tue Dec 16 06:01:19 2014/-kk/
-/eglut_wayland.c/1.1.1.1/Tue Dec 16 06:01:19 2014/-kk/
-/eglut_x11.c/1.1.1.1/Tue Dec 16 06:01:19 2014/-kk/
-/eglutint.h/1.1.1.1/Tue Dec 16 06:01:19 2014/-kk/
+/Makefile.am/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
+/Makefile.in/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
+/eglut.c/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
+/eglut.h/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
+/eglut_screen.c/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
+/eglut_wayland.c/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
+/eglut_x11.c/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
+/eglutint.h/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
 D

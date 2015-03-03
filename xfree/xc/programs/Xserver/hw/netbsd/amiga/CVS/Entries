@@ -1,19 +1,19 @@
-/INSTALL.X11/1.1/Thu Jan 15 12:07:41 2004/-kk/
-/Imakefile/1.1/Thu Jan 15 12:07:41 2004/-kk/
-/README/1.1/Thu Jan 15 12:07:41 2004/-kk/
-/Xamiga.man/1.1/Thu Jan 15 12:07:41 2004/-kk/
-/amiga.h/1.4/Mon May 30 11:00:17 2011/-kk/
-/amigaC.c/1.3/Thu Aug  3 20:08:58 2006/-kk/
-/amigaCC.h/1.1/Thu Jan 15 12:07:41 2004/-kk/
-/amigaCfb.c/1.2/Thu Aug  3 20:07:09 2006/-kk/
-/amigaCursor.c/1.3/Mon May 30 06:42:40 2011/-kk/
-/amigaFbs.c/1.4/Mon May 30 06:42:40 2011/-kk/
-/amigaInit.c/1.3/Mon May 30 11:00:17 2011/-kk/
-/amigaIo.c/1.2/Mon May 30 11:00:17 2011/-kk/
-/amigaKbd.c/1.5/Mon May 30 11:00:17 2011/-kk/
-/amigaKeyMap.c/1.1/Thu Jan 15 12:07:41 2004/-kk/
-/amigaMfb.c/1.1/Thu Jan 15 12:07:41 2004/-kk/
-/amigaMouse.c/1.4/Mon May 30 11:00:17 2011/-kk/
+/INSTALL.X11/1.1/Fri Jan  9 08:19:32 2015/-kk/
+/Imakefile/1.1/Fri Jan  9 08:19:32 2015/-kk/
+/README/1.1/Fri Jan  9 08:19:32 2015/-kk/
+/Xamiga.man/1.1/Fri Jan  9 08:19:32 2015/-kk/
+/amiga.h/1.4/Fri Jan  9 08:19:32 2015/-kk/
+/amigaC.c/1.3/Fri Jan  9 08:19:32 2015/-kk/
+/amigaCC.h/1.1/Fri Jan  9 08:19:32 2015/-kk/
+/amigaCfb.c/1.2/Fri Jan  9 08:19:32 2015/-kk/
+/amigaCursor.c/1.3/Fri Jan  9 08:19:32 2015/-kk/
+/amigaFbs.c/1.4/Fri Jan  9 08:19:32 2015/-kk/
+/amigaInit.c/1.3/Fri Jan  9 08:19:32 2015/-kk/
+/amigaIo.c/1.2/Fri Jan  9 08:19:32 2015/-kk/
+/amigaKbd.c/1.5/Fri Jan  9 08:19:32 2015/-kk/
+/amigaKeyMap.c/1.1/Fri Jan  9 08:19:32 2015/-kk/
+/amigaMfb.c/1.1/Fri Jan  9 08:19:32 2015/-kk/
+/amigaMouse.c/1.4/Fri Jan  9 08:19:32 2015/-kk/
 D/afb////
 D/cirrus////
 D/retina////

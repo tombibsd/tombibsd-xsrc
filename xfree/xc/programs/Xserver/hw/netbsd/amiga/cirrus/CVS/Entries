@@ -1,11 +1,11 @@
-/Imakefile/1.1/Thu Jan 15 12:07:41 2004/-kk/
-/amigaCL.c/1.2/Mon May 23 19:42:53 2011/-kk/
-/amigaCL.h/1.3/Mon May 30 11:00:17 2011/-kk/
-/clbitblt.c/1.3/Mon May 30 11:00:17 2011/-kk/
-/clblt.c/1.3/Mon May 30 11:00:17 2011/-kk/
-/clfillrct.c/1.3/Mon May 30 11:00:17 2011/-kk/
-/clgc.c/1.3/Mon May 30 11:00:18 2011/-kk/
-/clsolid.c/1.3/Mon May 30 11:00:18 2011/-kk/
-/clstuff.h/1.2/Mon May 30 11:00:18 2011/-kk/
-/clwindow.c/1.4/Mon May 30 11:00:18 2011/-kk/
+/Imakefile/1.1/Fri Jan  9 08:19:32 2015/-kk/
+/amigaCL.c/1.2/Fri Jan  9 08:19:32 2015/-kk/
+/amigaCL.h/1.3/Fri Jan  9 08:19:32 2015/-kk/
+/clbitblt.c/1.3/Fri Jan  9 08:19:32 2015/-kk/
+/clblt.c/1.3/Fri Jan  9 08:19:32 2015/-kk/
+/clfillrct.c/1.3/Fri Jan  9 08:19:32 2015/-kk/
+/clgc.c/1.3/Fri Jan  9 08:19:32 2015/-kk/
+/clsolid.c/1.3/Fri Jan  9 08:19:32 2015/-kk/
+/clstuff.h/1.2/Fri Jan  9 08:19:32 2015/-kk/
+/clwindow.c/1.4/Fri Jan  9 08:19:32 2015/-kk/
 D

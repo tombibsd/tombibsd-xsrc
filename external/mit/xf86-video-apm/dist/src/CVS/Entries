@@ -1,14 +1,14 @@
-/Makefile.am/1.1.1.4/Sun Jun  2 07:24:41 2013/-kk/
-/Makefile.in/1.1.1.5/Sun Jun  2 07:24:41 2013/-kk/
-/apm.h/1.1.1.4/Sun Jun  2 07:24:41 2013/-kk/
-/apm_accel.c/1.1.1.3/Sun Jun  2 07:24:41 2013/-kk/
-/apm_cursor.c/1.1.1.3/Sun Jun  2 07:24:41 2013/-kk/
-/apm_dga.c/1.1.1.3/Sun Jun  2 07:24:41 2013/-kk/
-/apm_driver.c/1.1.1.5/Sun Jun  2 07:24:41 2013/-kk/
-/apm_funcs.c/1.1.1.3/Sun Jun  2 07:24:41 2013/-kk/
-/apm_i2c.c/1.1.1.2/Wed Jun 10 00:46:17 2009/-kk/
-/apm_pcirename.h/1.1.1.1/Wed Jun 10 00:46:17 2009/-kk/
-/apm_regs.h/1.1.1.3/Sun Jun  2 07:24:41 2013/-kk/
-/apm_video.c/1.3/Sun Jun  2 07:36:42 2013/-kk/
-/compat-api.h/1.1.1.1/Sun Jun  2 07:24:41 2013/-kk/
+/Makefile.am/1.1.1.4/Fri Jan  9 08:19:22 2015/-kk/
+/Makefile.in/1.1.1.5/Fri Jan  9 08:19:22 2015/-kk/
+/apm.h/1.1.1.4/Fri Jan  9 08:19:22 2015/-kk/
+/apm_accel.c/1.1.1.3/Fri Jan  9 08:19:22 2015/-kk/
+/apm_cursor.c/1.1.1.3/Fri Jan  9 08:19:22 2015/-kk/
+/apm_dga.c/1.1.1.3/Fri Jan  9 08:19:22 2015/-kk/
+/apm_driver.c/1.1.1.5/Fri Jan  9 08:19:22 2015/-kk/
+/apm_funcs.c/1.1.1.3/Fri Jan  9 08:19:22 2015/-kk/
+/apm_i2c.c/1.1.1.2/Fri Jan  9 08:19:22 2015/-kk/
+/apm_pcirename.h/1.1.1.1/Fri Jan  9 08:19:22 2015/-kk/
+/apm_regs.h/1.1.1.3/Fri Jan  9 08:19:22 2015/-kk/
+/apm_video.c/1.3/Fri Jan  9 08:19:22 2015/-kk/
+/compat-api.h/1.1.1.1/Fri Jan  9 08:19:22 2015/-kk/
 D

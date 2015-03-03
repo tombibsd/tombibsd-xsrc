@@ -1,11 +1,11 @@
-/detect.mk/1.1.1.2/Thu Mar 20 08:22:50 2014/-kk/
-/exports.mk/1.1.1.3/Wed Jun  5 07:49:48 2013/-kk/
-/freetype.mk/1.1.1.3/Thu Mar 20 08:22:50 2014/-kk/
-/link_dos.mk/1.1.1.1/Wed Jul 30 02:36:20 2008/-kk/
-/link_std.mk/1.1.1.1/Wed Jul 30 02:36:20 2008/-kk/
-/modules.mk/1.1.1.2/Thu Mar 20 08:22:50 2014/-kk/
-/newline/1.1.1.1/Wed Jul 30 02:36:20 2008/-kk/
-/toplevel.mk/1.1.1.5/Thu Mar 20 08:22:50 2014/-kk/
+/detect.mk/1.1.1.2/Fri Jan  9 08:19:17 2015/-kk/
+/exports.mk/1.1.1.3/Fri Jan  9 08:19:17 2015/-kk/
+/freetype.mk/1.1.1.3/Fri Jan  9 08:19:17 2015/-kk/
+/link_dos.mk/1.1.1.1/Fri Jan  9 08:19:17 2015/-kk/
+/link_std.mk/1.1.1.1/Fri Jan  9 08:19:17 2015/-kk/
+/modules.mk/1.1.1.2/Fri Jan  9 08:19:17 2015/-kk/
+/newline/1.1.1.1/Fri Jan  9 08:19:17 2015/-kk/
+/toplevel.mk/1.1.1.5/Fri Jan  9 08:19:17 2015/-kk/
 D/amiga////
 D/ansi////
 D/atari////

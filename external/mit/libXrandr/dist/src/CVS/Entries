@@ -1,13 +1,13 @@
-/Makefile.am/1.1.1.5/Sat Jun  1 07:59:50 2013/-kk/
-/Makefile.in/1.1.1.7/Sun Mar 16 22:36:09 2014/-kk/
-/Xrandr.c/1.1.1.4/Sun Mar 16 22:36:09 2014/-kk/
-/Xrandrint.h/1.1.1.5/Sat Jun  1 07:59:50 2013/-kk/
-/XrrConfig.c/1.1.1.4/Fri May 31 08:35:37 2013/-kk/
-/XrrCrtc.c/1.1.1.5/Sat Jun  1 07:59:50 2013/-kk/
-/XrrMode.c/1.1.1.4/Sat Jun  1 07:59:50 2013/-kk/
-/XrrOutput.c/1.1.1.4/Sat Jun  1 07:59:50 2013/-kk/
-/XrrProperty.c/1.1.1.5/Sat Jun  1 07:59:50 2013/-kk/
-/XrrProvider.c/1.5/Mon Jul  1 19:46:01 2013/-kk/
-/XrrProviderProperty.c/1.1.1.2/Sat Jun  1 07:59:50 2013/-kk/
-/XrrScreen.c/1.1.1.4/Sat Jun  1 07:59:50 2013/-kk/
+/Makefile.am/1.1.1.5/Fri Jan  9 08:19:19 2015/-kk/
+/Makefile.in/1.1.1.7/Fri Jan  9 08:19:19 2015/-kk/
+/Xrandr.c/1.1.1.4/Fri Jan  9 08:19:19 2015/-kk/
+/Xrandrint.h/1.1.1.5/Fri Jan  9 08:19:19 2015/-kk/
+/XrrConfig.c/1.1.1.4/Fri Jan  9 08:19:19 2015/-kk/
+/XrrCrtc.c/1.1.1.5/Fri Jan  9 08:19:19 2015/-kk/
+/XrrMode.c/1.1.1.4/Fri Jan  9 08:19:19 2015/-kk/
+/XrrOutput.c/1.1.1.4/Fri Jan  9 08:19:19 2015/-kk/
+/XrrProperty.c/1.1.1.5/Fri Jan  9 08:19:19 2015/-kk/
+/XrrProvider.c/1.5/Fri Jan  9 08:19:19 2015/-kk/
+/XrrProviderProperty.c/1.1.1.2/Fri Jan  9 08:19:19 2015/-kk/
+/XrrScreen.c/1.1.1.4/Fri Jan  9 08:19:19 2015/-kk/
 D

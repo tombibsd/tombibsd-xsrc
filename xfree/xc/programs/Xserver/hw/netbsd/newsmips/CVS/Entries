@@ -1,12 +1,12 @@
-/Imakefile/1.1/Sun Aug  1 18:46:49 2004/-kk/
-/Xnewsmips.man/1.1/Sun Aug  1 18:46:49 2004/-kk/
-/newsmips.h/1.2/Fri May 20 01:45:36 2011/-kk/
-/newsmipsColormap.c/1.1/Sun Aug  1 18:46:49 2004/-kk/
-/newsmipsFB.c/1.2/Fri May 20 01:45:36 2011/-kk/
-/newsmipsInit.c/1.2/Wed Mar 30 21:16:55 2005/-kk/
-/newsmipsIo.c/1.2/Fri May 20 04:28:40 2011/-kk/
-/newsmipsKbd.c/1.3/Fri May 20 04:28:40 2011/-kk/
-/newsmipsKeymap.c/1.1/Sun Aug  1 18:46:49 2004/-kk/
-/newsmipsMouse.c/1.4/Fri May 20 04:28:40 2011/-kk/
-/newsmipsScreen.c/1.2/Fri Dec  9 05:44:50 2005/-kk/
+/Imakefile/1.1/Fri Jan  9 08:19:32 2015/-kk/
+/Xnewsmips.man/1.1/Fri Jan  9 08:19:32 2015/-kk/
+/newsmips.h/1.2/Fri Jan  9 08:19:32 2015/-kk/
+/newsmipsColormap.c/1.1/Fri Jan  9 08:19:32 2015/-kk/
+/newsmipsFB.c/1.2/Fri Jan  9 08:19:32 2015/-kk/
+/newsmipsInit.c/1.2/Fri Jan  9 08:19:32 2015/-kk/
+/newsmipsIo.c/1.2/Fri Jan  9 08:19:32 2015/-kk/
+/newsmipsKbd.c/1.3/Fri Jan  9 08:19:32 2015/-kk/
+/newsmipsKeymap.c/1.1/Fri Jan  9 08:19:32 2015/-kk/
+/newsmipsMouse.c/1.4/Fri Jan  9 08:19:32 2015/-kk/
+/newsmipsScreen.c/1.2/Fri Jan  9 08:19:32 2015/-kk/
 D

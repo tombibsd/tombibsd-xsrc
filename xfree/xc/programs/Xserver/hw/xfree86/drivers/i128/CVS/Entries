@@ -1,12 +1,12 @@
-/IBMRGB.h/1.1.1.3/Sat Jun  9 15:06:20 2001/-kk/
-/Imakefile/1.1.1.5/Fri Mar 18 13:11:43 2005/-kk/
-/Ti302X.h/1.1.1.3/Sat Jun  9 15:06:20 2001/-kk/
-/i128.h/1.1.1.3/Sat Jun  9 15:06:21 2001/-kk/
-/i128.man/1.1.1.2/Fri Mar 18 13:11:43 2005/-kk/
-/i128IBMDAC.c/1.3/Fri Mar  5 16:33:04 2004/-kk/
-/i128_driver.c/1.6/Fri Mar 18 14:55:14 2005/-kk/
-/i128accel.c/1.1.1.5/Fri Mar 18 13:11:43 2005/-kk/
-/i128dga.c/1.1.1.5/Fri Mar 18 13:11:43 2005/-kk/
-/i128init.c/1.4/Fri Mar  5 16:33:04 2004/-kk/
-/i128reg.h/1.1.1.4/Fri Feb 28 13:20:11 2003/-kk/
+/IBMRGB.h/1.1.1.3/Fri Jan  9 08:19:33 2015/-kk/
+/Imakefile/1.1.1.5/Fri Jan  9 08:19:33 2015/-kk/
+/Ti302X.h/1.1.1.3/Fri Jan  9 08:19:33 2015/-kk/
+/i128.h/1.1.1.3/Fri Jan  9 08:19:33 2015/-kk/
+/i128.man/1.1.1.2/Fri Jan  9 08:19:33 2015/-kk/
+/i128IBMDAC.c/1.3/Fri Jan  9 08:19:33 2015/-kk/
+/i128_driver.c/1.6/Fri Jan  9 08:19:33 2015/-kk/
+/i128accel.c/1.1.1.5/Fri Jan  9 08:19:33 2015/-kk/
+/i128dga.c/1.1.1.5/Fri Jan  9 08:19:33 2015/-kk/
+/i128init.c/1.4/Fri Jan  9 08:19:33 2015/-kk/
+/i128reg.h/1.1.1.4/Fri Jan  9 08:19:33 2015/-kk/
 D
