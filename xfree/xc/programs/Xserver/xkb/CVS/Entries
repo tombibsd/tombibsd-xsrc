@@ -13,7 +13,7 @@
 /ddxLoad.c/1.1.1.6/Fri Mar  5 14:29:44 2004/-kk/
 /ddxPrivate.c/1.1.1.2/Fri Mar  5 14:29:44 2004/-kk/
 /ddxVT.c/1.1.1.4/Fri Mar  5 14:29:44 2004/-kk/
-/xkb.c/1.1.1.6/Fri Mar  5 14:29:44 2004/-kk/
+/xkb.c/1.2/Mon Mar 23 05:44:28 2015/-kk/
 /xkb.h/1.1.1.1/Fri Mar  5 14:29:44 2004/-kk/
 /xkbAccessX.c/1.1.1.5/Fri Mar  5 14:29:44 2004/-kk/
 /xkbActions.c/1.1.1.6/Fri Mar  5 14:29:45 2004/-kk/
