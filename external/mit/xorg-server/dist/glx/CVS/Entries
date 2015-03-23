@@ -16,7 +16,7 @@
 /glxcmdsswap.c/1.2/Tue Dec  9 19:26:18 2014/-kk/
 /glxcontext.h/1.1.1.2/Tue Nov 23 05:21:07 2010/-kk/
 /glxdrawable.h/1.4/Tue Aug  2 07:16:36 2011/-kk/
-/glxdri.c/1.5/Tue Aug  2 07:15:02 2011/-kk/
+/glxdri.c/1.6/Mon Mar 23 05:47:24 2015/-kk/
 /glxdri2.c/1.1.1.4/Tue Aug  2 06:56:47 2011/-kk/
 /glxdricommon.c/1.1.1.2/Tue Nov 23 05:21:08 2010/-kk/
 /glxdricommon.h/1.1.1.2/Tue Nov 23 05:21:08 2010/-kk/
