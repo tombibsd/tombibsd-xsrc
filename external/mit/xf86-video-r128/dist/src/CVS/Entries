@@ -10,7 +10,7 @@
 /r128_dri.c/1.1.1.2/Sun Jun  2 08:24:19 2013/-kk/
 /r128_dri.h/1.1.1.1/Sun Oct 12 23:10:25 2008/-kk/
 /r128_dripriv.h/1.1.1.1/Sun Oct 12 23:10:25 2008/-kk/
-/r128_driver.c/1.9/Wed Mar 19 23:56:47 2014/-kk/
+/r128_driver.c/1.11/Sat Jul 25 01:42:18 2015/-kk/
 /r128_exa.c/1.1.1.1/Sun Jun  2 08:24:19 2013/-kk/
 /r128_exa_render.c/1.1.1.2/Wed Mar 19 23:53:14 2014/-kk/
 /r128_misc.c/1.1.1.2/Sun Jun  2 08:24:19 2013/-kk/
