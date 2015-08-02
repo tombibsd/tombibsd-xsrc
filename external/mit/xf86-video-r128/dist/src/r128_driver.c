@@ -508,7 +508,7 @@ void R128GetPanelInfoFromBIOS(xf86OutputPtr output)
     xf86GetOptValInteger(info->Options, OPTION_PANEL_WIDTH,  &(r128_output->PanelXRes));
     xf86GetOptValInteger(info->Options, OPTION_PANEL_HEIGHT, &(r128_output->PanelYRes));
 
-    if (!info->VBIOS) return;
+    if (!info->VBIOS) goto fallback;
     info->FPBIOSstart = 0;
 
     /* FIXME: There should be direct access to the start of the FP info
@@ -529,7 +529,7 @@ void R128GetPanelInfoFromBIOS(xf86OutputPtr output)
         }
     }
 
-    if (!FPHeader) return;
+    if (!FPHeader) goto fallback;
 
 
     /* Assume that only one panel is attached and supported */
@@ -539,25 +539,6 @@ void R128GetPanelInfoFromBIOS(xf86OutputPtr output)
             break;
         }
     }
-
-#ifdef __NetBSD__
-    if (!r128_output->PanelXRes || !r128_output->PanelYRes) {
-	/*
-	 * we may not be on x86 so check wsdisplay for panel dimensions
-	 * XXX this assumes that the r128 is the console, although that should
-	 * be the case in the vast majority of cases where an LCD is hooked up
-	 * directly
-	 * We should probably just check the relevant registers but I'm not
-	 * sure they're available at this point.
-	 */
-	struct wsdisplay_fbinfo fbinfo;
-	
-	if (ioctl(xf86Info.screenFd, WSDISPLAYIO_GINFO, &fbinfo) == 0) {
-	    r128_output->PanelXRes = fbinfo.width;
-	    r128_output->PanelYRes = fbinfo.height;
-	}
-    }
-#endif
 
 #ifndef AVOID_FBDEV
     if (!info->FPBIOSstart) return;
@@ -612,6 +593,27 @@ void R128GetPanelInfoFromBIOS(xf86OutputPtr output)
                    "This support is untested and may not "
                    "function properly\n");
     }
+    return;
+fallback:
+#ifdef __NetBSD__
+    if ((!r128_output->PanelXRes || !r128_output->PanelYRes)  &&
+        (info->HaveWSDisplay)) {
+	/*
+	 * we may not be on x86 so check wsdisplay for panel dimensions
+	 * XXX this assumes that the r128 is the console, although that should
+	 * be the case in the vast majority of cases where an LCD is hooked up
+	 * directly
+	 * We should probably just check the relevant registers but I'm not
+	 * sure they're available at this point.
+	 */
+	struct wsdisplay_fbinfo fbinfo;
+	
+	if (ioctl(xf86Info.screenFd, WSDISPLAYIO_GINFO, &fbinfo) == 0) {
+	    r128_output->PanelXRes = fbinfo.width;
+	    r128_output->PanelYRes = fbinfo.height;
+	}
+    }
+#endif
 }
 
 /* Read PLL parameters from BIOS block.  Default to typical values if there
@@ -1312,6 +1314,9 @@ Bool R128PreInit(ScrnInfoPtr pScrn, int flags)
 {
     R128InfoPtr      info;
     xf86Int10InfoPtr pInt10 = NULL;
+#ifdef __NetBSD__
+    struct wsdisplayio_bus_id bid;
+#endif
 
     R128TRACE(("R128PreInit\n"));
 
@@ -1338,6 +1343,29 @@ Bool R128PreInit(ScrnInfoPtr pScrn, int flags)
 	       PCI_DEV_BUS(info->PciInfo),
 	       PCI_DEV_DEV(info->PciInfo),
 	       PCI_DEV_FUNC(info->PciInfo));
+
+#ifdef __NetBSD__
+    /* now check if this is the console */
+    info->HaveWSDisplay = FALSE;
+    info->HaveBacklightControl = FALSE;
+    if (ioctl(xf86Info.screenFd, WSDISPLAYIO_GET_BUSID, &bid) != -1) {
+    	if ((bid.bus_type == WSDISPLAYIO_BUS_PCI) &&
+    	    (bid.ubus.pci.bus == PCI_DEV_BUS(info->PciInfo)) &&
+    	    (bid.ubus.pci.device == PCI_DEV_DEV(info->PciInfo)) &&
+    	    (bid.ubus.pci.function == PCI_DEV_FUNC(info->PciInfo))) {
+    	    	struct wsdisplay_param p;
+    	    	xf86Msg(X_INFO, "Alright, this is the console\n");
+    	    	info->HaveWSDisplay = TRUE;
+
+    	    	/* now see if we have hacklight control */
+    	    	p.param = WSDISPLAYIO_PARAM_BACKLIGHT;
+		if (ioctl(xf86Info.screenFd, WSDISPLAYIO_GETPARAM, &p) != -1) {
+		    xf86Msg(X_INFO, "... and we have backlight control\n");
+		    info->HaveBacklightControl = TRUE; 	 
+		}   	
+    	}
+    }
+#endif
 
 #ifndef XSERVER_LIBPCIACCESS
     info->PciTag        = pciTag(PCI_DEV_BUS(info->PciInfo),
@@ -2769,15 +2797,11 @@ static void R128Restore(ScrnInfoPtr pScrn)
     R128RestoreFPRegisters(pScrn, restore);
     R128RestoreLVDSRegisters(pScrn, restore);
 
-#if 0
-    if (!info->IsSecondary) {
-        OUTREG(R128_AMCGPIO_MASK,     restore->amcgpio_mask);
-        OUTREG(R128_AMCGPIO_EN_REG,   restore->amcgpio_en_reg);
-        OUTREG(R128_CLOCK_CNTL_INDEX, restore->clock_cntl_index);
-        OUTREG(R128_GEN_RESET_CNTL,   restore->gen_reset_cntl);
-        OUTREG(R128_DP_DATATYPE,      restore->dp_datatype);
-    }
-#endif
+    OUTREG(R128_AMCGPIO_MASK,     restore->amcgpio_mask);
+    OUTREG(R128_AMCGPIO_EN_REG,   restore->amcgpio_en_reg);
+    OUTREG(R128_CLOCK_CNTL_INDEX, restore->clock_cntl_index);
+    OUTREG(R128_GEN_RESET_CNTL,   restore->gen_reset_cntl);
+    OUTREG(R128_DP_DATATYPE,      restore->dp_datatype);
 
 #ifdef WITH_VGAHW
     if (info->VGAAccess) {
