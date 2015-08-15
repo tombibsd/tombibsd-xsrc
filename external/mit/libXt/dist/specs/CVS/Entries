@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /CH01.xml/1.1.1.1/Fri Jan  9 08:19:19 2015/-kk/
 /CH02.xml/1.1.1.1/Fri Jan  9 08:19:19 2015/-kk/
 /CH03.xml/1.1.1.1/Fri Jan  9 08:19:19 2015/-kk/
@@ -22,4 +23,30 @@
 /appF.xml/1.1.1.1/Fri Jan  9 08:19:19 2015/-kk/
 /intrinsics.xml/1.1.1.1/Fri Jan  9 08:19:19 2015/-kk/
 /preface.xml/1.1.1.1/Fri Jan  9 08:19:19 2015/-kk/
+=======
+/CH01.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/CH02.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/CH03.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/CH04.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/CH05.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/CH06.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/CH07.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/CH08.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/CH09.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/CH10.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/CH11.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/CH12.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/CH13.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/Makefile.am/1.1.1.2/Fri May 31 09:19:53 2013/-kk/
+/Makefile.in/1.1.1.4/Sat Jul 25 01:56:03 2015/-kk/
+/acknowledgement.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/appA.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/appB.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/appC.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/appD.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/appE.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/appF.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/intrinsics.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+/preface.xml/1.1.1.1/Fri May 31 09:19:53 2013/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

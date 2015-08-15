@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /changelog/1.1.1.7/Fri Jan  9 08:19:28 2015/-kk/
 /color.sed/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
 /compat/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
@@ -8,4 +9,18 @@
 /xterm-dev.docs/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
 /xterm-dev.menu/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
 /xterm-xres.sed/1.1.1.2/Fri Jan  9 08:19:28 2015/-kk/
+=======
+/changelog/1.1.1.8/Sun Aug  2 04:06:26 2015/-kk/
+/color.sed/1.1.1.1/Sun Nov 21 06:19:09 2010/-kk/
+/compat/1.1.1.1/Sun Nov 21 06:19:09 2010/-kk/
+/control/1.1.1.3/Thu Mar 20 07:00:09 2014/-kk/
+/copyright/1.1.1.4/Sun Aug  2 04:06:26 2015/-kk/
+/postinst/1.1.1.1/Thu Jul 23 04:50:52 2015/-kk/
+/prerm/1.1.1.1/Thu Jul 23 04:50:52 2015/-kk/
+/rules/1.1.1.5/Sun Aug  2 04:06:26 2015/-kk/
+/watch/1.1.1.1/Sun Nov 21 06:19:09 2010/-kk/
+/xterm-dev.docs/1.1.1.1/Sun Nov 21 06:19:09 2010/-kk/
+/xterm-dev.menu/1.1.1.1/Fri May 31 21:22:48 2013/-kk/
+/xterm-xres.sed/1.1.1.2/Fri May 31 21:22:48 2013/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D/source////

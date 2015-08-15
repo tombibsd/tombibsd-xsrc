@@ -1,7 +1,18 @@
+<<<<<<< HEAD
 /50-vmmouse.conf/1.1.1.1/Fri Jan  9 08:19:21 2015/-kk/
 /69-xorg-vmmouse.rules.in/1.1.1.2/Fri Jan  9 08:19:21 2015/-kk/
 /Makefile.am/1.1.1.5/Fri Jan  9 08:19:21 2015/-kk/
 /Makefile.in/1.1.1.5/Fri Jan  9 08:19:21 2015/-kk/
 /hal-probe-vmmouse.in/1.1.1.2/Fri Jan  9 08:19:21 2015/-kk/
 /vmmouse_detect.c/1.1.1.1/Fri Jan  9 08:19:21 2015/-kk/
+=======
+/50-vmmouse.conf/1.1.1.1/Sat May 22 09:48:32 2010/-kk/
+/69-xorg-vmmouse.rules.in/1.1.1.2/Sat Aug 14 08:30:07 2010/-kk/
+/Makefile.am/1.1.1.6/Sat Jul 25 01:56:38 2015/-kk/
+/Makefile.in/1.1.1.6/Sat Jul 25 01:56:38 2015/-kk/
+/hal-probe-vmmouse.in/1.1.1.2/Sat May 22 09:48:32 2010/-kk/
+/vmmouse_detect.c/1.1.1.2/Sat Jul 25 01:56:38 2015/-kk/
+/vmmouse_iopl.c/1.1.1.1/Mon Jul 20 01:47:16 2015/-kk/
+/vmmouse_udev.c/1.1.1.1/Mon Jul 20 01:47:16 2015/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

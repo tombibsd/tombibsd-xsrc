@@ -76,6 +76,7 @@ D/libXi////
 D/libXinerama////
 D/libXmu////
 D/libXpm////
+D/libXpresent////
 D/libXrandr////
 D/libXrender////
 D/libXres////
@@ -103,16 +104,17 @@ D/mkfontscale////
 D/oclock////
 D/pixman////
 D/presentproto////
-D/printproto////
 D/proxymngr////
 D/randrproto////
 D/recordproto////
 D/renderproto////
 D/resourceproto////
 D/rgb////
+D/rstart////
 D/scrnsaverproto////
 D/sessreg////
 D/setxkbmap////
+D/showfont////
 D/smproxy////
 D/trapproto////
 D/ttf-bitstream-vera////
@@ -145,7 +147,6 @@ D/xf86-input-keyboard////
 D/xf86-input-mouse////
 D/xf86-input-synaptics////
 D/xf86-input-vmmouse////
-D/xf86-input-void////
 D/xf86-input-ws////
 D/xf86-video-ag10e////
 D/xf86-video-apm////
@@ -162,6 +163,7 @@ D/xf86-video-i128////
 D/xf86-video-i740////
 D/xf86-video-igs////
 D/xf86-video-imstt////
+D/xf86-video-intel-old////
 D/xf86-video-intel////
 D/xf86-video-mach64////
 D/xf86-video-mga////
@@ -173,7 +175,6 @@ D/xf86-video-nvxbox////
 D/xf86-video-openchrome////
 D/xf86-video-pnozz////
 D/xf86-video-r128////
-D/xf86-video-radeonhd////
 D/xf86-video-rendition////
 D/xf86-video-s3////
 D/xf86-video-s3virge////
@@ -190,7 +191,6 @@ D/xf86-video-tga////
 D/xf86-video-trident////
 D/xf86-video-tseng////
 D/xf86-video-vesa////
-D/xf86-video-vga////
 D/xf86-video-vmware////
 D/xf86-video-wsfb////
 D/xf86-video-xgi////

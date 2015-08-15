@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 /README/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
 /convmap.pl/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
 /keysym.map/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
 /make-precompose.sh/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
 /precompose.c.head/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
 /precompose.c.tail/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
+=======
+/README/1.1.1.1/Wed Jul 30 04:41:03 2008/-kk/
+/convmap.pl/1.1.1.1/Wed Jul 30 04:41:03 2008/-kk/
+/keysym.map/1.1.1.1/Wed Jul 30 04:41:03 2008/-kk/
+/make-precompose.sh/1.1.1.1/Wed Jul 30 04:41:03 2008/-kk/
+/precompose.c.head/1.1.1.2/Sun Aug  2 04:06:26 2015/-kk/
+/precompose.c.tail/1.1.1.1/Wed Jul 30 04:41:03 2008/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

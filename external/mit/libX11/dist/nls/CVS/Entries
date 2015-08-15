@@ -1,12 +1,22 @@
+<<<<<<< HEAD
 /Makefile.am/1.1.1.6/Fri Jan  9 08:19:18 2015/-kk/
 /Makefile.in/1.1.1.12/Fri Jan  9 08:19:18 2015/-kk/
 /compose-check.pl/1.1.1.2/Fri Jan  9 08:19:18 2015/-kk/
 /compose.dir.pre/1.1.1.6/Fri Jan  9 08:19:18 2015/-kk/
 /locale.alias.pre/1.1.1.7/Fri Jan  9 08:19:18 2015/-kk/
 /locale.dir.pre/1.1.1.6/Fri Jan  9 08:19:18 2015/-kk/
+=======
+/Makefile.am/1.1.1.7/Sat Jul 25 01:55:47 2015/-kk/
+/Makefile.in/1.1.1.13/Sat Jul 25 01:55:47 2015/-kk/
+/compose-check.pl/1.1.1.2/Wed Feb 23 07:55:52 2011/-kk/
+/compose.dir.pre/1.1.1.7/Sat Jul 25 01:55:47 2015/-kk/
+/locale.alias.pre/1.1.1.8/Sat Jul 25 01:55:47 2015/-kk/
+/locale.dir.pre/1.1.1.6/Sun Mar 16 22:43:46 2014/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D/C////
 D/am_ET.UTF-8////
 D/armscii-8////
+D/cs_CZ.UTF-8////
 D/el_GR.UTF-8////
 D/en_US.UTF-8////
 D/fi_FI.UTF-8////

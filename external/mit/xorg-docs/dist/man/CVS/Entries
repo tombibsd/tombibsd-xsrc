@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Consortium.man/1.1.1.1/Fri Jan  9 08:19:27 2015/-kk/
 /Makefile.am/1.1.1.1/Fri Jan  9 08:19:27 2015/-kk/
 /Makefile.in/1.1.1.1/Fri Jan  9 08:19:27 2015/-kk/
@@ -6,4 +7,14 @@
 /XOrgFoundation.man/1.1.1.1/Fri Jan  9 08:19:27 2015/-kk/
 /XProjectTeam.man/1.1.1.1/Fri Jan  9 08:19:27 2015/-kk/
 /Xsecurity.man/1.1.1.1/Fri Jan  9 08:19:27 2015/-kk/
+=======
+/Consortium.man/1.1.1.2/Sat Jul 25 01:57:23 2015/-kk/
+/Makefile.am/1.1.1.1/Wed Jun  5 07:39:18 2013/-kk/
+/Makefile.in/1.1.1.2/Sat Jul 25 01:57:23 2015/-kk/
+/Standards.man/1.1.1.2/Sat Jul 25 01:57:23 2015/-kk/
+/X.man/1.1.1.2/Sat Jul 25 01:57:23 2015/-kk/
+/XOrgFoundation.man/1.1.1.1/Wed Jun  5 07:39:18 2013/-kk/
+/XProjectTeam.man/1.1.1.1/Wed Jun  5 07:39:18 2013/-kk/
+/Xsecurity.man/1.1.1.2/Sat Jul 25 01:57:23 2015/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

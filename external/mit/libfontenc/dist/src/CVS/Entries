@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 /Makefile.am/1.1.1.4/Fri Jan  9 08:19:20 2015/-kk/
 /Makefile.in/1.1.1.4/Fri Jan  9 08:19:20 2015/-kk/
 /encparse.c/1.1.1.3/Fri Jan  9 08:19:20 2015/-kk/
 /fontenc.c/1.1.1.4/Fri Jan  9 08:19:20 2015/-kk/
 /fontencI.h/1.1.1.2/Fri Jan  9 08:19:20 2015/-kk/
+=======
+/Makefile.am/1.1.1.4/Fri May 31 01:09:07 2013/-kk/
+/Makefile.in/1.1.1.5/Sat Jul 25 01:56:09 2015/-kk/
+/encparse.c/1.1.1.4/Sat Jul 25 01:56:09 2015/-kk/
+/fontenc.c/1.1.1.5/Sat Jul 25 01:56:09 2015/-kk/
+/fontencI.h/1.1.1.3/Sat Jul 25 01:56:09 2015/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

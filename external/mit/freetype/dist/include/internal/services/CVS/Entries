@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /svbdf.h/1.1.1.1/Fri Jan  9 08:19:18 2015/-kk/
 /svcid.h/1.1.1.1/Fri Jan  9 08:19:18 2015/-kk/
 /svgldict.h/1.1.1.1/Fri Jan  9 08:19:18 2015/-kk/
@@ -16,4 +17,24 @@
 /svttglyf.h/1.1.1.1/Fri Jan  9 08:19:18 2015/-kk/
 /svwinfnt.h/1.1.1.1/Fri Jan  9 08:19:18 2015/-kk/
 /svxf86nm.h/1.1.1.1/Fri Jan  9 08:19:18 2015/-kk/
+=======
+/svbdf.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svcid.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svfntfmt.h/1.1.1.1/Mon Jul 20 03:46:50 2015/-kk/
+/svgldict.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svgxval.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svkern.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svmm.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svotval.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svpfr.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svpostnm.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svprop.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svpscmap.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svpsinfo.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svsfnt.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svttcmap.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svtteng.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svttglyf.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+/svwinfnt.h/1.1.1.2/Sat Jul 25 01:55:41 2015/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

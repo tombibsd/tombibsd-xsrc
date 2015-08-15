@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Makefile.am/1.1.1.3/Fri Jan  9 08:19:18 2015/-kk/
 /Makefile.in/1.1.1.5/Fri Jan  9 08:19:18 2015/-kk/
 /XKBlib-1.svg/1.1.1.1/Fri Jan  9 08:19:18 2015/-kk/
@@ -46,4 +47,54 @@
 /ch22.xml/1.1.1.2/Fri Jan  9 08:19:18 2015/-kk/
 /glossary.xml/1.1.1.1/Fri Jan  9 08:19:18 2015/-kk/
 /xkblib.xml/1.1.1.2/Fri Jan  9 08:19:18 2015/-kk/
+=======
+/Makefile.am/1.1.1.3/Wed Aug  3 03:01:39 2011/-kk/
+/Makefile.in/1.1.1.6/Sat Jul 25 01:55:47 2015/-kk/
+/XKBlib-1.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-10.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-11.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-12.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-13.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-14.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-15.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-16.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-17.svg/1.1.1.1/Wed Feb 23 07:55:45 2011/-kk/
+/XKBlib-18.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-19.svg/1.1.1.1/Wed Feb 23 07:55:45 2011/-kk/
+/XKBlib-2.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-20.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-21.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-3.svg/1.1.1.1/Wed Feb 23 07:55:47 2011/-kk/
+/XKBlib-4.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-5.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-6.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-7.svg/1.1.1.1/Wed Feb 23 07:55:45 2011/-kk/
+/XKBlib-8.svg/1.1.1.1/Wed Feb 23 07:55:46 2011/-kk/
+/XKBlib-9.svg/1.1.1.1/Wed Feb 23 07:55:45 2011/-kk/
+/acknowledgement.xml/1.1.1.3/Sat Jul 25 01:55:48 2015/-kk/
+/ch01.xml/1.1.1.3/Sat Jul 25 01:55:48 2015/-kk/
+/ch02.xml/1.1.1.3/Sat Jul 25 01:55:48 2015/-kk/
+/ch03.xml/1.1.1.3/Sat Jul 25 01:55:48 2015/-kk/
+/ch04.xml/1.1.1.3/Sat Jul 25 01:55:48 2015/-kk/
+/ch05.xml/1.1.1.3/Sat Jul 25 01:55:48 2015/-kk/
+/ch06.xml/1.1.1.3/Sat Jul 25 01:55:48 2015/-kk/
+/ch07.xml/1.1.1.3/Sat Jul 25 01:55:48 2015/-kk/
+/ch08.xml/1.1.1.3/Sat Jul 25 01:55:48 2015/-kk/
+/ch09.xml/1.1.1.3/Sat Jul 25 01:55:48 2015/-kk/
+/ch10.xml/1.1.1.3/Sat Jul 25 01:55:49 2015/-kk/
+/ch11.xml/1.1.1.3/Sat Jul 25 01:55:50 2015/-kk/
+/ch12.xml/1.1.1.3/Sat Jul 25 01:55:50 2015/-kk/
+/ch13.xml/1.1.1.3/Sat Jul 25 01:55:50 2015/-kk/
+/ch14.xml/1.1.1.3/Sat Jul 25 01:55:51 2015/-kk/
+/ch15.xml/1.1.1.3/Sat Jul 25 01:55:51 2015/-kk/
+/ch16.xml/1.1.1.3/Sat Jul 25 01:55:51 2015/-kk/
+/ch17.xml/1.1.1.3/Sat Jul 25 01:55:52 2015/-kk/
+/ch18.xml/1.1.1.3/Sat Jul 25 01:55:52 2015/-kk/
+/ch19.xml/1.1.1.3/Sat Jul 25 01:55:52 2015/-kk/
+/ch20.xml/1.1.1.3/Sat Jul 25 01:55:52 2015/-kk/
+/ch21.xml/1.1.1.3/Sat Jul 25 01:55:53 2015/-kk/
+/ch22.xml/1.1.1.3/Sat Jul 25 01:55:53 2015/-kk/
+/glossary.xml/1.1.1.2/Sat Jul 25 01:55:53 2015/-kk/
+/xkblib.xml/1.1.1.3/Sat Jul 25 01:55:53 2015/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

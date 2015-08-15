@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Makefile.am/1.1.1.5/Fri Jan  9 08:19:21 2015/-kk/
 /Makefile.in/1.1.1.6/Fri Jan  9 08:19:21 2015/-kk/
 /bsd_mouse.c/1.4/Fri Jan  9 08:19:21 2015/-kk/
@@ -9,4 +10,17 @@
 /mousePriv.h/1.1.1.3/Fri Jan  9 08:19:21 2015/-kk/
 /pnp.c/1.3/Fri Jan  9 08:19:21 2015/-kk/
 /sun_mouse.c/1.1.1.5/Fri Jan  9 08:19:21 2015/-kk/
+=======
+/Makefile.am/1.1.1.5/Wed Jun  5 06:57:58 2013/-kk/
+/Makefile.in/1.1.1.7/Sun Aug  2 04:06:12 2015/-kk/
+/bsd_mouse.c/1.5/Sun Aug  2 04:06:12 2015/-kk/
+/compat-api.h/1.1.1.1/Wed Jun  5 06:57:58 2013/-kk/
+/hurd_mouse.c/1.1.1.4/Wed Jun  5 06:57:58 2013/-kk/
+/lnx_mouse.c/1.1.1.4/Wed Jun  5 06:57:58 2013/-kk/
+/mouse.c/1.17/Sun Aug  2 04:06:12 2015/-kk/
+/mouse.h/1.6/Wed Jun  5 07:11:16 2013/-kk/
+/mousePriv.h/1.1.1.3/Wed Jun  5 06:57:58 2013/-kk/
+/pnp.c/1.3/Wed Jun  5 07:11:16 2013/-kk/
+/sun_mouse.c/1.1.1.6/Sun Aug  2 04:06:12 2015/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

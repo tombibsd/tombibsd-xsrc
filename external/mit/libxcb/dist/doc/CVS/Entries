@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 /Makefile.am/1.1.1.2/Fri Jan  9 08:19:20 2015/-kk/
 /Makefile.in/1.1.1.5/Fri Jan  9 08:19:20 2015/-kk/
 /xcb.doxygen.in/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
 /xkb_internals/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
 /xkb_issues/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
+=======
+/Makefile.am/1.1.1.3/Sun Aug  2 04:06:09 2015/-kk/
+/Makefile.in/1.1.1.6/Sun Aug  2 04:06:09 2015/-kk/
+/xcb.doxygen.in/1.1.1.1/Sat Jul 17 20:37:17 2010/-kk/
+/xkb_internals/1.1.1.1/Fri May 31 08:50:45 2013/-kk/
+/xkb_issues/1.1.1.1/Fri May 31 08:50:45 2013/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D/tutorial////

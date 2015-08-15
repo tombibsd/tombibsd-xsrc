@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /compile/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
 /config.guess/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
 /config.sub/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
@@ -6,4 +7,14 @@
 /ltmain.sh/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
 /missing/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
 /test-driver/1.1.1.1/Fri Jan  9 08:19:20 2015/-kk/
+=======
+/compile/1.1.1.1/Mon Mar 17 03:06:49 2014/-kk/
+/config.guess/1.1.1.2/Sun Aug  2 04:06:09 2015/-kk/
+/config.sub/1.1.1.2/Sun Aug  2 04:06:09 2015/-kk/
+/depcomp/1.1.1.1/Mon Mar 17 03:06:49 2014/-kk/
+/install-sh/1.1.1.1/Mon Mar 17 03:06:49 2014/-kk/
+/ltmain.sh/1.1.1.2/Sun Aug  2 04:06:09 2015/-kk/
+/missing/1.1.1.2/Sun Aug  2 04:06:09 2015/-kk/
+/test-driver/1.1.1.2/Sun Aug  2 04:06:09 2015/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

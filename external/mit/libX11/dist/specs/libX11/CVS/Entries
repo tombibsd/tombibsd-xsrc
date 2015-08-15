@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /AppA.xml/1.1.1.2/Fri Jan  9 08:19:18 2015/-kk/
 /AppB.xml/1.1.1.2/Fri Jan  9 08:19:18 2015/-kk/
 /AppC.xml/1.1.1.4/Fri Jan  9 08:19:18 2015/-kk/
@@ -23,4 +24,31 @@
 /credits.xml/1.1.1.2/Fri Jan  9 08:19:18 2015/-kk/
 /glossary.xml/1.1.1.2/Fri Jan  9 08:19:18 2015/-kk/
 /libX11.xml/1.1.1.2/Fri Jan  9 08:19:18 2015/-kk/
+=======
+/AppA.xml/1.1.1.2/Thu May 30 23:04:39 2013/-kk/
+/AppB.xml/1.1.1.2/Thu May 30 23:04:40 2013/-kk/
+/AppC.xml/1.1.1.5/Sat Jul 25 01:55:53 2015/-kk/
+/AppD.xml/1.1.1.4/Sat Jul 25 01:55:53 2015/-kk/
+/CH01.xml/1.1.1.4/Sat Jul 25 01:55:53 2015/-kk/
+/CH02.xml/1.1.1.4/Sun Mar 16 22:43:46 2014/-kk/
+/CH03.xml/1.1.1.5/Sat Jul 25 01:55:53 2015/-kk/
+/CH04.xml/1.1.1.5/Sat Jul 25 01:55:53 2015/-kk/
+/CH05.xml/1.1.1.5/Sat Jul 25 01:55:53 2015/-kk/
+/CH06.xml/1.1.1.5/Sat Jul 25 01:55:53 2015/-kk/
+/CH07.xml/1.1.1.5/Sat Jul 25 01:55:53 2015/-kk/
+/CH08.xml/1.1.1.5/Sat Jul 25 01:55:53 2015/-kk/
+/CH09.xml/1.1.1.5/Sat Jul 25 01:55:53 2015/-kk/
+/CH10.xml/1.1.1.3/Thu May 30 23:04:39 2013/-kk/
+/CH11.xml/1.1.1.4/Sun Mar 16 22:43:46 2014/-kk/
+/CH12.xml/1.1.1.5/Sat Jul 25 01:55:53 2015/-kk/
+/CH13.xml/1.1.1.5/Sat Jul 25 01:55:53 2015/-kk/
+/CH14.xml/1.1.1.5/Sat Jul 25 01:55:53 2015/-kk/
+/CH15.xml/1.1.1.4/Sun Mar 16 22:43:46 2014/-kk/
+/CH16.xml/1.1.1.5/Sat Jul 25 01:55:53 2015/-kk/
+/Makefile.am/1.1.1.5/Wed Aug  3 03:01:41 2011/-kk/
+/Makefile.in/1.1.1.10/Sat Jul 25 01:55:53 2015/-kk/
+/credits.xml/1.1.1.2/Thu May 30 23:04:39 2013/-kk/
+/glossary.xml/1.1.1.2/Thu May 30 23:04:39 2013/-kk/
+/libX11.xml/1.1.1.2/Thu May 30 23:04:39 2013/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

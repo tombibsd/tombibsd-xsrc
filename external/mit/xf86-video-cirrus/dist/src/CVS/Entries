@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /CirrusClk.c/1.1.1.3/Fri Jan  9 08:19:22 2015/-kk/
 /Makefile.am/1.1.1.3/Fri Jan  9 08:19:22 2015/-kk/
 /Makefile.in/1.1.1.5/Fri Jan  9 08:19:22 2015/-kk/
@@ -19,4 +20,27 @@
 /lg_i2c.c/1.1.1.2/Fri Jan  9 08:19:22 2015/-kk/
 /lg_xaa.c/1.1.1.2/Fri Jan  9 08:19:22 2015/-kk/
 /lg_xaa.h/1.1.1.3/Fri Jan  9 08:19:22 2015/-kk/
+=======
+/CirrusClk.c/1.1.1.3/Sun Jun  2 07:25:04 2013/-kk/
+/Makefile.am/1.1.1.4/Sat Jul 25 01:56:41 2015/-kk/
+/Makefile.in/1.1.1.6/Sat Jul 25 01:56:41 2015/-kk/
+/alp.h/1.1.1.3/Sun Jun  2 07:25:04 2013/-kk/
+/alp_driver.c/1.1.1.6/Sat Jul 25 01:56:41 2015/-kk/
+/alp_hwcurs.c/1.1.1.2/Sun Jun  2 07:25:04 2013/-kk/
+/alp_i2c.c/1.1.1.2/Sun Jun  2 07:25:04 2013/-kk/
+/alp_xaa.c/1.1.1.2/Sun Jun  2 07:25:04 2013/-kk/
+/alp_xaam.c/1.1.1.2/Sun Jun  2 07:25:04 2013/-kk/
+/cir.h/1.1.1.4/Sat Jul 25 01:56:41 2015/-kk/
+/cir_dga.c/1.1.1.3/Sun Jun  2 07:25:04 2013/-kk/
+/cir_driver.c/1.1.1.5/Sun Jun  2 07:25:04 2013/-kk/
+/cir_pcirename.h/1.1.1.2/Sun Jun  2 07:25:04 2013/-kk/
+/cir_shadow.c/1.1.1.4/Sun Jun  2 07:25:04 2013/-kk/
+/compat-api.h/1.1.1.1/Sun Jun  2 07:25:04 2013/-kk/
+/lg.h/1.1.1.3/Sun Jun  2 07:25:04 2013/-kk/
+/lg_driver.c/1.7/Sat Jul 25 01:56:41 2015/-kk/
+/lg_hwcurs.c/1.1.1.2/Sun Jun  2 07:25:05 2013/-kk/
+/lg_i2c.c/1.1.1.2/Sun Jun  2 07:25:04 2013/-kk/
+/lg_xaa.c/1.1.1.2/Sun Jun  2 07:25:04 2013/-kk/
+/lg_xaa.h/1.1.1.3/Sun Jun  2 07:25:04 2013/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

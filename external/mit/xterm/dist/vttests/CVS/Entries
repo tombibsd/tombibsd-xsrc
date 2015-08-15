@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /16colors.sh/1.1.1.3/Fri Jan  9 08:19:28 2015/-kk/
 /256colors.pl/1.1.1.3/Fri Jan  9 08:19:28 2015/-kk/
 /256colors2.pl/1.1.1.4/Fri Jan  9 08:19:28 2015/-kk/
@@ -17,4 +18,25 @@
 /resize.sh/1.1.1.3/Fri Jan  9 08:19:28 2015/-kk/
 /tcapquery.pl/1.1.1.4/Fri Jan  9 08:19:28 2015/-kk/
 /title.sh/1.1.1.3/Fri Jan  9 08:19:28 2015/-kk/
+=======
+/16colors.sh/1.1.1.3/Fri May 31 21:22:48 2013/-kk/
+/256colors.pl/1.1.1.3/Thu Mar 20 07:00:09 2014/-kk/
+/256colors2.pl/1.1.1.4/Thu Mar 20 07:00:09 2014/-kk/
+/88colors.pl/1.1.1.3/Thu Mar 20 07:00:09 2014/-kk/
+/88colors2.pl/1.1.1.4/Thu Mar 20 07:00:09 2014/-kk/
+/8colors.sh/1.1.1.3/Fri May 31 21:22:48 2013/-kk/
+/acolors.sh/1.1.1.3/Fri May 31 21:22:48 2013/-kk/
+/doublechars.sh/1.1.1.3/Fri May 31 21:22:48 2013/-kk/
+/dynamic.pl/1.1.1.2/Thu Mar 20 07:00:09 2014/-kk/
+/dynamic.sh/1.1.1.3/Fri May 31 21:22:48 2013/-kk/
+/dynamic2.sh/1.1.1.3/Fri May 31 21:22:48 2013/-kk/
+/fonts.sh/1.1.1.3/Fri May 31 21:22:48 2013/-kk/
+/paste64.pl/1.1.1.4/Sun Aug  2 04:06:26 2015/-kk/
+/query-color.pl/1.1.1.2/Thu Mar 20 07:00:09 2014/-kk/
+/query-fonts.pl/1.1.1.2/Thu Mar 20 07:00:09 2014/-kk/
+/resize.pl/1.1.1.4/Sun Aug  2 04:06:26 2015/-kk/
+/resize.sh/1.1.1.3/Fri May 31 21:22:48 2013/-kk/
+/tcapquery.pl/1.1.1.4/Thu Mar 20 07:00:09 2014/-kk/
+/title.sh/1.1.1.3/Fri May 31 21:22:48 2013/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

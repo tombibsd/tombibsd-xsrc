@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Makefile.am/1.1.1.4/Fri Jan  9 08:19:27 2015/-kk/
 /Makefile.in/1.1.1.7/Fri Jan  9 08:19:27 2015/-kk/
 /buttonmap.c/1.1.1.4/Fri Jan  9 08:19:27 2015/-kk/
@@ -15,4 +16,23 @@
 /transform.c/1.1.1.1/Fri Jan  9 08:19:27 2015/-kk/
 /xinput.c/1.3/Fri Jan  9 08:19:27 2015/-kk/
 /xinput.h/1.1.1.4/Fri Jan  9 08:19:27 2015/-kk/
+=======
+/Makefile.am/1.1.1.4/Fri May 31 07:18:29 2013/-kk/
+/Makefile.in/1.1.1.8/Sun Aug  2 04:06:20 2015/-kk/
+/buttonmap.c/1.1.1.4/Fri May 31 07:18:29 2013/-kk/
+/feedback.c/1.1.1.3/Fri May 31 07:18:29 2013/-kk/
+/hierarchy.c/1.1.1.3/Fri May 31 07:18:29 2013/-kk/
+/list.c/1.1.1.7/Sun Aug  2 04:06:20 2015/-kk/
+/property.c/1.1.1.6/Sun Aug  2 04:06:20 2015/-kk/
+/setcp.c/1.1.1.3/Fri May 31 07:18:29 2013/-kk/
+/setint.c/1.1.1.3/Fri May 31 07:18:29 2013/-kk/
+/setmode.c/1.1.1.4/Fri May 31 07:18:29 2013/-kk/
+/setptr.c/1.1.1.3/Fri May 31 07:18:29 2013/-kk/
+/state.c/1.1.1.3/Fri May 31 07:18:29 2013/-kk/
+/test.c/1.1.1.4/Sun Aug  2 04:06:20 2015/-kk/
+/test_xi2.c/1.1.1.5/Sun Aug  2 04:06:20 2015/-kk/
+/transform.c/1.1.1.2/Sun Aug  2 04:06:21 2015/-kk/
+/xinput.c/1.4/Sun Aug  2 04:06:21 2015/-kk/
+/xinput.h/1.1.1.4/Fri May 31 07:18:29 2013/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

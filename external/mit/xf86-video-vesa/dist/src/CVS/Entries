@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 /Makefile.am/1.1.1.2/Fri Jan  9 08:19:26 2015/-kk/
 /Makefile.in/1.7/Fri Jan  9 08:19:26 2015/-kk/
 /compat-api.h/1.1.1.1/Fri Jan  9 08:19:26 2015/-kk/
 /vesa.c/1.8/Fri Jan  9 08:19:26 2015/-kk/
 /vesa.h/1.6/Fri Jan  9 08:19:26 2015/-kk/
+=======
+/Makefile.am/1.1.1.2/Sat Jun  1 08:53:57 2013/-kk/
+/Makefile.in/1.8/Sat Jul 25 01:56:59 2015/-kk/
+/compat-api.h/1.1.1.1/Sat Jun  1 08:53:57 2013/-kk/
+/vesa.c/1.9/Sat Jul 25 01:56:59 2015/-kk/
+/vesa.h/1.7/Sat Jul 25 01:56:59 2015/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

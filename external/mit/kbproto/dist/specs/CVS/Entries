@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Makefile.am/1.1.1.1/Fri Jan  9 08:19:18 2015/-kk/
 /Makefile.in/1.1.1.1/Fri Jan  9 08:19:18 2015/-kk/
 /XKBproto-1.svg/1.1.1.1/Fri Jan  9 08:19:18 2015/-kk/
@@ -33,4 +34,41 @@
 /ch15.xml/1.1.1.1/Fri Jan  9 08:19:18 2015/-kk/
 /ch16.xml/1.1.1.1/Fri Jan  9 08:19:18 2015/-kk/
 /xkbproto.xml/1.1.1.1/Fri Jan  9 08:19:18 2015/-kk/
+=======
+/Makefile.am/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/Makefile.in/1.1.1.2/Sat Jul 25 01:55:44 2015/-kk/
+/XKBproto-1.svg/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/XKBproto-10.svg/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/XKBproto-11.svg/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/XKBproto-2.svg/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/XKBproto-3.svg/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/XKBproto-4.svg/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/XKBproto-5.svg/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/XKBproto-6.svg/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/XKBproto-7.svg/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/XKBproto-8.svg/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/XKBproto-9.svg/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/acknowledgements.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/appA.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/appB.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/appC.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/appD.xml/1.1.1.2/Sat Jul 25 01:55:44 2015/-kk/
+/ch01.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/ch02.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/ch03.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/ch04.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/ch05.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/ch06.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/ch07.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/ch08.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/ch09.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/ch10.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/ch11.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/ch12.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/ch13.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/ch14.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/ch15.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/ch16.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+/xkbproto.xml/1.1.1.1/Thu May 30 20:18:45 2013/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

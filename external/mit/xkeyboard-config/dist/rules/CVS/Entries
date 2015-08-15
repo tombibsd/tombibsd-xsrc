@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /HDR/1.1.1.3/Fri Jan  9 08:19:27 2015/-kk/
 /Makefile.am/1.1.1.5/Fri Jan  9 08:19:27 2015/-kk/
 /Makefile.in/1.1.1.6/Fri Jan  9 08:19:27 2015/-kk/
@@ -41,5 +42,50 @@
 /xfree98/1.1.1.3/Fri Jan  9 08:19:27 2015/-kk/
 /xkb.dtd/1.1.1.3/Fri Jan  9 08:19:27 2015/-kk/
 /xml2lst.pl/1.1.1.2/Fri Jan  9 08:19:27 2015/-kk/
+=======
+/HDR/1.1.1.3/Mon Mar 17 08:32:02 2014/-kk/
+/Makefile.am/1.1.1.5/Mon Mar 17 08:32:02 2014/-kk/
+/Makefile.in/1.1.1.7/Sat Jul 25 01:57:14 2015/-kk/
+/README/1.1.1.1/Sat Aug 30 09:12:09 2008/-kk/
+/base.extras.xml.in/1.1.1.9/Sat Jul 25 01:57:14 2015/-kk/
+/base.hdr.part/1.1.1.2/Sat Jul 23 11:20:06 2011/-kk/
+/base.l1_k.part/1.1.1.1/Sat Aug 30 09:12:10 2008/-kk/
+/base.l1o_s.part/1.1.1.2/Fri May 28 09:54:26 2010/-kk/
+/base.l2o_s.part/1.1.1.2/Fri May 28 09:54:26 2010/-kk/
+/base.l3o_s.part/1.1.1.2/Fri May 28 09:54:26 2010/-kk/
+/base.l4o_s.part/1.1.1.2/Fri May 28 09:54:27 2010/-kk/
+/base.l_k.part/1.1.1.1/Sat Aug 30 09:12:10 2008/-kk/
+/base.lists.base.part/1.1.1.1/Mon Mar 17 08:32:02 2014/-kk/
+/base.lists.part/1.1.1.10/Mon Mar 17 08:32:02 2014/-kk/
+/base.lo_s.part/1.3/Fri May 28 10:01:07 2010/-kk/
+/base.m_g.part/1.1.1.5/Fri May 31 23:20:01 2013/-kk/
+/base.m_k.part/1.1.1.4/Fri May 31 23:20:01 2013/-kk/
+/base.m_s.part/1.1.1.4/Fri May 31 23:20:01 2013/-kk/
+/base.m_t.part/1.1.1.2/Fri May 28 09:54:26 2010/-kk/
+/base.ml1_c.part/1.1.1.1/Sat Aug 30 09:12:10 2008/-kk/
+/base.ml1_s.part/1.1.1.3/Fri May 31 23:20:01 2013/-kk/
+/base.ml2_s.part/1.1.1.2/Fri May 31 23:20:01 2013/-kk/
+/base.ml3_s.part/1.1.1.2/Fri May 31 23:20:01 2013/-kk/
+/base.ml4_s.part/1.1.1.2/Fri May 31 23:20:01 2013/-kk/
+/base.ml_c.part/1.1.1.2/Fri May 31 23:20:01 2013/-kk/
+/base.ml_g.part/1.1.1.1/Sat Aug 30 09:12:10 2008/-kk/
+/base.ml_s.part/1.5/Fri May 31 23:23:11 2013/-kk/
+/base.ml_s1.part/1.1.1.1/Mon Mar 17 08:32:02 2014/-kk/
+/base.mlv_s.part/1.1.1.3/Fri May 31 23:20:01 2013/-kk/
+/base.o_c.part/1.1.1.3/Fri May 31 23:20:01 2013/-kk/
+/base.o_k.part/1.3/Fri May 28 10:01:07 2010/-kk/
+/base.o_s.part/1.1.1.12/Sat Jul 25 01:57:14 2015/-kk/
+/base.o_t.part/1.1.1.2/Fri May 28 09:54:27 2010/-kk/
+/base.xml.in/1.1.1.12/Sat Jul 25 01:57:14 2015/-kk/
+/evdev.extras.xml.in/1.1.1.9/Sat Jul 25 01:57:14 2015/-kk/
+/evdev.lists.part/1.1.1.1/Mon Mar 17 08:32:02 2014/-kk/
+/evdev.m_k.part/1.1.1.3/Fri May 31 23:20:01 2013/-kk/
+/evdev.m_s.part/1.1.1.2/Fri May 28 09:54:26 2010/-kk/
+/evdev.xml.in/1.1.1.11/Sat Jul 25 01:57:14 2015/-kk/
+/merge.sh/1.1.1.2/Fri May 28 09:54:26 2010/-kk/
+/xfree98/1.1.1.3/Sat Jul 23 11:20:06 2011/-kk/
+/xkb.dtd/1.1.1.3/Fri May 31 23:20:01 2013/-kk/
+/xml2lst.pl/1.1.1.2/Sat Jul 23 11:20:06 2011/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D/bin////
 D/compat////

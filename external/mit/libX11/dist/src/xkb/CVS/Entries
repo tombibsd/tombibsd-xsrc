@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Makefile.am/1.1.1.4/Fri Jan  9 08:19:19 2015/-kk/
 /Makefile.in/1.1.1.12/Fri Jan  9 08:19:19 2015/-kk/
 /XKB.c/1.1.1.6/Fri Jan  9 08:19:19 2015/-kk/
@@ -22,4 +23,30 @@
 /XKBUse.c/1.1.1.5/Fri Jan  9 08:19:19 2015/-kk/
 /XKBleds.c/1.1.1.5/Fri Jan  9 08:19:19 2015/-kk/
 /XKBlibint.h/1.1.1.5/Fri Jan  9 08:19:19 2015/-kk/
+=======
+/Makefile.am/1.1.1.4/Wed Feb 23 07:55:51 2011/-kk/
+/Makefile.in/1.1.1.13/Sat Jul 25 01:55:54 2015/-kk/
+/XKB.c/1.1.1.7/Sat Jul 25 01:55:54 2015/-kk/
+/XKBAlloc.c/1.1.1.7/Sat Jul 25 01:55:54 2015/-kk/
+/XKBBell.c/1.1.1.5/Sun Mar 16 22:43:47 2014/-kk/
+/XKBBind.c/1.1.1.7/Sat Jul 25 01:55:54 2015/-kk/
+/XKBCompat.c/1.1.1.5/Sun Mar 16 22:43:47 2014/-kk/
+/XKBCtrls.c/1.1.1.5/Sun Mar 16 22:43:47 2014/-kk/
+/XKBCvt.c/1.1.1.5/Sun Mar 16 22:43:47 2014/-kk/
+/XKBExtDev.c/1.1.1.7/Sat Jul 25 01:55:54 2015/-kk/
+/XKBGAlloc.c/1.1.1.9/Sat Jul 25 01:55:54 2015/-kk/
+/XKBGeom.c/1.1.1.8/Sat Jul 25 01:55:54 2015/-kk/
+/XKBGetByName.c/1.1.1.5/Sun Mar 16 22:43:47 2014/-kk/
+/XKBGetMap.c/1.1.1.6/Sun Mar 16 22:43:47 2014/-kk/
+/XKBList.c/1.1.1.6/Sun Mar 16 22:43:47 2014/-kk/
+/XKBMAlloc.c/1.3/Sat Jul 25 01:55:54 2015/-kk/
+/XKBMisc.c/1.1.1.7/Sun Mar 16 22:43:47 2014/-kk/
+/XKBNames.c/1.1.1.7/Sat Jul 25 01:55:54 2015/-kk/
+/XKBRdBuf.c/1.1.1.7/Sat Jul 25 01:55:54 2015/-kk/
+/XKBSetGeom.c/1.1.1.5/Sun Mar 16 22:43:47 2014/-kk/
+/XKBSetMap.c/1.1.1.5/Sun Mar 16 22:43:47 2014/-kk/
+/XKBUse.c/1.1.1.5/Sun Mar 16 22:43:47 2014/-kk/
+/XKBleds.c/1.1.1.5/Sun Mar 16 22:43:47 2014/-kk/
+/XKBlibint.h/1.1.1.5/Sun Mar 16 22:43:47 2014/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

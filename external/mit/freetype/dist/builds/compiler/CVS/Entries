@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /ansi-cc.mk/1.1.1.1/Fri Jan  9 08:19:17 2015/-kk/
 /bcc-dev.mk/1.1.1.3/Fri Jan  9 08:19:17 2015/-kk/
 /bcc.mk/1.1.1.2/Fri Jan  9 08:19:17 2015/-kk/
@@ -10,4 +11,18 @@
 /visualc.mk/1.1.1.1/Fri Jan  9 08:19:17 2015/-kk/
 /watcom.mk/1.1.1.1/Fri Jan  9 08:19:17 2015/-kk/
 /win-lcc.mk/1.1.1.1/Fri Jan  9 08:19:17 2015/-kk/
+=======
+/ansi-cc.mk/1.1.1.2/Sat Jul 25 01:55:36 2015/-kk/
+/bcc-dev.mk/1.1.1.4/Sat Jul 25 01:55:36 2015/-kk/
+/bcc.mk/1.1.1.3/Sat Jul 25 01:55:36 2015/-kk/
+/emx.mk/1.1.1.2/Sat Jul 25 01:55:36 2015/-kk/
+/gcc-dev.mk/1.1.1.2/Sat Jul 25 01:55:36 2015/-kk/
+/gcc.mk/1.1.1.3/Sat Jul 25 01:55:36 2015/-kk/
+/intelc.mk/1.1.1.2/Sat Jul 25 01:55:36 2015/-kk/
+/unix-lcc.mk/1.1.1.2/Sat Jul 25 01:55:36 2015/-kk/
+/visualage.mk/1.1.1.2/Sat Jul 25 01:55:36 2015/-kk/
+/visualc.mk/1.1.1.2/Sat Jul 25 01:55:36 2015/-kk/
+/watcom.mk/1.1.1.2/Sat Jul 25 01:55:36 2015/-kk/
+/win-lcc.mk/1.1.1.2/Sat Jul 25 01:55:36 2015/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D

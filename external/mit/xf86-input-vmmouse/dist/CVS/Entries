@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /COPYING/1.1.1.2/Fri Jan  9 08:19:21 2015/-kk/
 /ChangeLog/1.1.1.5/Fri Jan  9 08:19:21 2015/-kk/
 /INSTALL/1.1.1.4/Fri Jan  9 08:19:21 2015/-kk/
@@ -14,6 +15,24 @@
 /install-sh/1.1.1.5/Fri Jan  9 08:19:21 2015/-kk/
 /ltmain.sh/1.1.1.5/Fri Jan  9 08:19:21 2015/-kk/
 /missing/1.1.1.5/Fri Jan  9 08:19:21 2015/-kk/
+=======
+/COPYING/1.1.1.2/Sat Aug 14 08:29:19 2010/-kk/
+/ChangeLog/1.1.1.6/Sat Jul 25 01:56:37 2015/-kk/
+/INSTALL/1.1.1.4/Sat Jul 23 21:00:19 2011/-kk/
+/Makefile.am/1.1.1.4/Wed Jun  5 01:02:28 2013/-kk/
+/Makefile.in/1.1.1.7/Sat Jul 25 01:56:37 2015/-kk/
+/README/1.1.1.2/Wed Jun 10 08:42:28 2009/-kk/
+/aclocal.m4/1.1.1.8/Sat Jul 25 01:56:38 2015/-kk/
+/config.guess/1.1.1.6/Wed Jun  5 01:02:28 2013/-kk/
+/config.h.in/1.1.1.7/Sat Jul 25 01:56:38 2015/-kk/
+/config.sub/1.1.1.7/Sat Jul 25 01:56:38 2015/-kk/
+/configure.ac/1.1.1.8/Sat Jul 25 01:56:38 2015/-kk/
+/configure/1.1.1.8/Sat Jul 25 01:56:38 2015/-kk/
+/depcomp/1.1.1.5/Wed Jun  5 01:02:28 2013/-kk/
+/install-sh/1.1.1.5/Wed Jun  5 01:02:28 2013/-kk/
+/ltmain.sh/1.1.1.6/Sat Jul 25 01:56:38 2015/-kk/
+/missing/1.1.1.5/Wed Jun  5 01:02:28 2013/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D/fdi////
 D/man////
 D/shared////

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /COPYING/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
 /ChangeLog/1.1.1.10/Fri Jan  9 08:19:28 2015/-kk/
 /INSTALL/1.1.1.2/Fri Jan  9 08:19:28 2015/-kk/
@@ -17,4 +18,24 @@
 /missing/1.1.1.5/Fri Jan  9 08:19:28 2015/-kk/
 /xrandr.c/1.11/Fri Jan  9 08:19:28 2015/-kk/
 /xrandr_test.pl/1.1.1.1/Fri Jan  9 08:19:28 2015/-kk/
+=======
+/COPYING/1.1.1.1/Wed Jul 30 04:37:46 2008/-kk/
+/ChangeLog/1.1.1.11/Sun Aug  2 04:06:25 2015/-kk/
+/INSTALL/1.1.1.3/Sun Aug  2 04:06:26 2015/-kk/
+/Makefile.am/1.1.1.5/Sat Jul 23 05:56:31 2011/-kk/
+/Makefile.in/1.1.1.10/Sun Aug  2 04:06:26 2015/-kk/
+/README/1.1.1.2/Sat Aug 14 09:12:46 2010/-kk/
+/aclocal.m4/1.1.1.10/Sun Aug  2 04:06:26 2015/-kk/
+/config.guess/1.1.1.9/Sun Aug  2 04:06:26 2015/-kk/
+/config.h.in/1.1.1.3/Sat Aug 14 09:12:46 2010/-kk/
+/config.sub/1.1.1.9/Sun Aug  2 04:06:26 2015/-kk/
+/configure.ac/1.1.1.11/Sun Aug  2 04:06:26 2015/-kk/
+/configure/1.1.1.11/Sun Aug  2 04:06:26 2015/-kk/
+/depcomp/1.1.1.6/Sun Aug  2 04:06:26 2015/-kk/
+/install-sh/1.1.1.6/Sun Aug  2 04:06:26 2015/-kk/
+/keystone.5c/1.1.1.2/Fri May 31 07:51:26 2013/-kk/
+/missing/1.1.1.6/Sun Aug  2 04:06:26 2015/-kk/
+/xrandr.c/1.12/Sun Aug  2 04:06:26 2015/-kk/
+/xrandr_test.pl/1.1.1.1/Wed Jul 30 04:37:45 2008/-kk/
+>>>>>>> c373423cd1a9ed8e22d9b3beae9749a14a0aee2c
 D/man////
